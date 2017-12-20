@@ -9,7 +9,7 @@ import org.eclipse.om2m.commons.resource.ContentInstance;
 import fr.insat.om2m.tp2.mapper.Mapper;
 import obix.Obj;
 import obix.io.ObixDecoder;
-
+//test frg
 public class CapteurPresence {
 	
 	public CapteurPresence(){};
